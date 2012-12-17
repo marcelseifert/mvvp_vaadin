@@ -1,0 +1,2 @@
+# Module org.marcel.vaadin.vaadin7test.mvvm.AppWidgetSet
+# RPC service class, partial path of RPC policy file
