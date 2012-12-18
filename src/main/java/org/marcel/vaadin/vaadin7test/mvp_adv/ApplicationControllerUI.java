@@ -1,6 +1,5 @@
 package org.marcel.vaadin.vaadin7test.mvp_adv;
 
-import org.marcel.vaadin.vaadin7test.*;
 import com.vaadin.server.VaadinRequest;
 import com.vaadin.ui.Alignment;
 import com.vaadin.ui.Button;
